@@ -49,6 +49,24 @@ git clone https://github.com/PoojithaKandukuri-2004/Fashion-MNIST-Data-Visualiza
 
 ---
 
+## 📊 Visualization Results
+
+### 🔹 Single Image Visualization
+![Single Image](fashion mnist images/Single Image.png)
+
+### 🔹 Multiple Images Visualization
+![Multiple Images](fashion mnist images/Multiple Images.png)
+
+### 🔹 Class Distribution
+![Class Distribution](fashion mnist images/Class Distribution.png)
+
+### 🔹 Average Image per Class
+![Average Images](fashion mnist images/Average Images.png)
+
+### 🔹 Heatmap Visualization
+![Heatmap](fashion mnist images/HeatMap.png)
+
+
 ## 👩‍💻 Author
 **Poojitha Kandukuri**  
 B.Tech ECE Student  
