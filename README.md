@@ -64,7 +64,7 @@ git clone https://github.com/PoojithaKandukuri-2004/Fashion-MNIST-Data-Visualiza
 ![Average Images](images/average_images.png)
 
 ### 🔹 Heatmap Visualization
-![Heatmap](images/heatmap.png)
+![Heatmap](C:\Users\HP\Downloads\images\heatmap.png)
 
 
 ## 👩‍💻 Author
